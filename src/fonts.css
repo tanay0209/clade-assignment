@@ -1,0 +1,7 @@
+/* src/fonts.css */
+@font-face {
+    font-family: 'General Sans';
+    src: url('./assets/fonts/GeneralSans-Variable.ttf') format('truetype');
+    font-weight: 100 900;
+    font-style: normal;
+}
